@@ -9,10 +9,10 @@ yield point and then concrete fails in compression) and calculates the design va
 as well as the final depth of neutral axis in mm.
 
 Input: 
-beam geometry characteristics in mm
-quantity of steel bars (in tension and in compression)
+beam geometry characteristics in mm, 
+quantity of steel bars (in tension and in compression), 
 diameter of steel bars (in tension and in compression)
 
 Output:
-design value of moment in kNm
+design value of moment in kNm, 
 final depth of neutral axis in mm
