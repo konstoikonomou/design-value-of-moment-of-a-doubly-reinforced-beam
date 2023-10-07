@@ -1,5 +1,5 @@
 # Design-value-of-moment-of-a-doubly-reinforced-beam
-Program that calculates the design value of moment of a doubly reinforced rectangular beam, according to Eurocode 2. 
+Program that calculates the design value of moment of a doubly reinforced rectangular beam, according to Eurocode 2 (single-shaft bending without axial load). 
 
 It takes as input the geometry of the rectangular beam and the quantity and size of steel bars 
 (in tension and compression).
